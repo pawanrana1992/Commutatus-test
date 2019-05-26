@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Commutatus-test/precache-manifest.b664e4f4204ca6a347d140d719642d73.js"
+  "/Commutatus-test/precache-manifest.7805ca931b45a2cb542561fc83898fc5.js"
 );
 
 self.addEventListener('message', (event) => {

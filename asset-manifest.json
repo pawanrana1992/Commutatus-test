@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Commutatus-test/static/css/main.67f06700.chunk.css",
-    "main.js": "/Commutatus-test/static/js/main.8133b95d.chunk.js",
-    "main.js.map": "/Commutatus-test/static/js/main.8133b95d.chunk.js.map",
+    "main.js": "/Commutatus-test/static/js/main.74869d6f.chunk.js",
+    "main.js.map": "/Commutatus-test/static/js/main.74869d6f.chunk.js.map",
     "runtime~main.js": "/Commutatus-test/static/js/runtime~main.6754c431.js",
     "runtime~main.js.map": "/Commutatus-test/static/js/runtime~main.6754c431.js.map",
-    "static/js/2.fa0004aa.chunk.js": "/Commutatus-test/static/js/2.fa0004aa.chunk.js",
-    "static/js/2.fa0004aa.chunk.js.map": "/Commutatus-test/static/js/2.fa0004aa.chunk.js.map",
+    "static/js/2.28e1e42a.chunk.js": "/Commutatus-test/static/js/2.28e1e42a.chunk.js",
+    "static/js/2.28e1e42a.chunk.js.map": "/Commutatus-test/static/js/2.28e1e42a.chunk.js.map",
     "index.html": "/Commutatus-test/index.html",
-    "precache-manifest.b664e4f4204ca6a347d140d719642d73.js": "/Commutatus-test/precache-manifest.b664e4f4204ca6a347d140d719642d73.js",
+    "precache-manifest.7805ca931b45a2cb542561fc83898fc5.js": "/Commutatus-test/precache-manifest.7805ca931b45a2cb542561fc83898fc5.js",
     "service-worker.js": "/Commutatus-test/service-worker.js",
     "static/css/main.67f06700.chunk.css.map": "/Commutatus-test/static/css/main.67f06700.chunk.css.map",
     "static/media/language.csv": "/Commutatus-test/static/media/language.f66ac276.csv"

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d70534950b6f7188ddaa560847322ae6",
+    "revision": "892c93282bc62a721a75bdc9c1993ff1",
     "url": "/Commutatus-test/index.html"
   },
   {
-    "revision": "1a2e6e87d620732e4c08",
+    "revision": "95f39fc0963167bd0af7",
     "url": "/Commutatus-test/static/css/main.67f06700.chunk.css"
   },
   {
-    "revision": "0c4feb38a1632660cf01",
-    "url": "/Commutatus-test/static/js/2.fa0004aa.chunk.js"
+    "revision": "7ddc4720ada6312111a9",
+    "url": "/Commutatus-test/static/js/2.28e1e42a.chunk.js"
   },
   {
-    "revision": "1a2e6e87d620732e4c08",
-    "url": "/Commutatus-test/static/js/main.8133b95d.chunk.js"
+    "revision": "95f39fc0963167bd0af7",
+    "url": "/Commutatus-test/static/js/main.74869d6f.chunk.js"
   },
   {
     "revision": "dbac0f13630985895d70",

@@ -2,7 +2,7 @@
   "name": "change-app-language",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://pawanrana1992.github.io/Commutatus-test",
+  "homepage": "https://pawanrana1992.github.io/Commutatus-test",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "papaparse": "^4.6.3",

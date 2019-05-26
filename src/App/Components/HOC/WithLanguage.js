@@ -15,9 +15,9 @@ function WithLanguage(Component) {
             this.changeLang  = this.changeLang.bind(this);
         }
 
-        componentDidMount() {
+       async componentDidMount() {
             let rawFile = new XMLHttpRequest();
-            rawFile.open("GET", csvLang, false);
+            rawFile.open("GET", csvLang, true);
             rawFile.onreadystatechange = () => {
                 if (rawFile.readyState === 4) {
                     if (rawFile.status === 200 || rawFile.status === 0) {
